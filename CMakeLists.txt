@@ -7,4 +7,4 @@ add_executable(LibC main.c
         "EJ 1/FunccomC.c"
         "EJ 1/FunccomC.h"
         "EJ 2/cadenas.c"
-        "EJ 3/Archivos.cpp")
+        "EJ 3/archivos.c")

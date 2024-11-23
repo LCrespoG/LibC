@@ -1,4 +1,4 @@
-#include "FunccomC.h"
+#include "funccomC.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
