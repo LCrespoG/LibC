@@ -1,5 +1,7 @@
 # Link al repositorio:
 
+https://github.com/LCrespoG/LibC.git
+
 # Proyecto: Funciones Comunes en C
 
 Este proyecto contiene una serie de ejercicios sobre el uso de funciones comunes en el lenguaje C, que involucran el manejo de números, cadenas y archivos. El objetivo es familiarizarse con las bibliotecas estándar de C, como `<stdlib.h>`, `<string.h>`, y `<stdio.h>`, mediante ejemplos prácticos.
