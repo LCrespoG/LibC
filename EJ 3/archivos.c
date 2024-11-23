@@ -8,14 +8,17 @@ int archtxt() {
     if (file == NULL) {
         printf("El archivo no se pudo abrir.\n");
         return 1;
+    } else{
+        printf("El archivo se abrio.\n");
     }
+
 
     fclose(file);
 }
 
 int archtxt2() {
     printf("b) \n");
-    
+
     FILE *file = fopen("file.txt", "w");
     if (file == NULL) {
         printf("El archivo no se pudo abrir para escritura.\n");
